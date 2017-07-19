@@ -1,7 +1,5 @@
-configuration:
-  projectName: config-client
-server:
-  port: 8000
-message:
-  greeting: Hello from the Default configuration!
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
 
