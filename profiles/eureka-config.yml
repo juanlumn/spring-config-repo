@@ -1,6 +1,0 @@
-configuration:
-  projectName: eureka-server
-server:
-  port: 8000
-message:
-  greeting: Hello from the Eureka Server configuration!
