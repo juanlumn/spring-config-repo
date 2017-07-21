@@ -8,5 +8,3 @@ eureka:
     fetchRegistry: false
     serviceUrl:
           defaultZone: http://192.168.1.138:8761/eureka/
-  server:
-    waitTimeInMsWhenSyncEmpty: 0
